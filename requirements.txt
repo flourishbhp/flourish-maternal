@@ -9,6 +9,7 @@ git+https://github.com/botswana-harvard/edc-dashboard.git@develop#egg=edc_dashbo
 git+https://github.com/botswana-harvard/edc-device.git@develop#egg=edc_device
 git+https://github.com/botswana-harvard/edc-facility.git@develop#egg=edc_facility
 git+https://github.com/botswana-harvard/edc-fieldsets.git@develop#egg=edc_fieldsets
+git+https://github.com/botswana-harvard/edc-form-validators.git@0.1.2#egg=edc-form-validators
 git+https://github.com/botswana-harvard/edc-identifier.git@develop#egg=edc_identifier
 git+https://github.com/botswana-harvard/edc-lab.git@develop#egg=edc_lab
 git+https://github.com/botswana-harvard/edc-label.git@develop#egg=edc_label
